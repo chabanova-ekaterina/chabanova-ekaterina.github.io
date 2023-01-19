@@ -163,12 +163,12 @@ body {
   border-radius: 20px;
 }
 .swiper-button-next, .swiper-rtl .swiper-button-prev{
-  right: 100px !important;
+  right: 100px;
   left: auto;
 }
 .swiper-button-prev, .swiper-rtl .swiper-button-next{
   right: auto;
-  left: 100px !important;
+  left: 100px;
 }
 .image-slider {
     width: 100%;
@@ -843,6 +843,14 @@ body{
 .main__title{
   font-size: 20px;
   padding: 10px 10px 20px;
+}
+.swiper-button-next, .swiper-rtl .swiper-button-prev{
+  right: 0;
+  left: 220px;
+}
+.swiper-button-prev, .swiper-rtl .swiper-button-next{
+  right: 220px;
+  left: 0;
 }
 .main__desc{
   font-size: 15px;
