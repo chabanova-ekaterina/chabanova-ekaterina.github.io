@@ -139,6 +139,7 @@ body {
   max-width: 1197px;
   height: 100%;
 }
+
 .swiper-slide {
   text-align: center;
   font-size: 14px;
@@ -174,6 +175,7 @@ body {
   right: auto;
   left: 100px;
 }
+
 .image-slider {
     width: 100%;
 }                
@@ -183,11 +185,13 @@ body {
   color: #fff;
   font-size: 80px;
   }  
+
 .swiper-button-prev:after, .swiper-container-rtl .swiper-button-prev:after {
   content: '';
   color: #fff;
   font-size: 80px;
 }
+
 /*пагинация*/
 .image-slider .swiper-pagination {
   bottom: 0;
