@@ -1,4 +1,4 @@
-# CotingKaty.github.io
+# chabanova-ekaterina.github.io
 <h1 align="center">Here is my first full-fledged independent work, which demonstrates my skills and abilities in practice</h1>
 <h3 align="center">This project is written with the following tools</h3>
 
