@@ -14,8 +14,8 @@ speed: 800,
 hideOnClick: false,
 
 pagination: {
-  el: '.swiper-pagination',
-  type: 'bullets',
+el: '.swiper-pagination',
+type: 'bullets',
 clickable: true,
 mousewheel: true,
 keyboard: true,
