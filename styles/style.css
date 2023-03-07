@@ -227,6 +227,7 @@ body {
   padding: 40px 100px 40px 100px;
   margin: 0 auto;
 }
+
 .main__desc {
   font-size: 20px;
   line-height: 1.8;
@@ -315,6 +316,7 @@ p{
   max-width: 600px;
   margin: 0 auto 32px;
 }
+
 .banner__link {
   background: rgba(255, 255, 255, 0.5);
   border-radius: 10px;
@@ -329,6 +331,7 @@ p{
   padding: 0px 50px 50px 50px;
   background-size: contain;
 }
+
 .social{
   position: relative;
   display: flex;
@@ -338,9 +341,11 @@ p{
   padding: 0;
   /* flex-wrap: wrap; *//*разрешен перенос на новую строку*/
 }
+
 .social li{
   list-style: none;/*удалить черные маркеры*/
 }
+
 .social li a {
   font-size: 2em;/*размер иконок*/
   color: #fff;/*цвет иконок*/
@@ -348,16 +353,16 @@ p{
   display: inline-block;/*отображать как строчно-блочный элемент*/
   transition: 0.5s;/*плавный переход*/
 }
+
 /*При наведении курсора значки увеличиваются*/
 .contacts a:hover{
   -webkit-transform: scale(1.2);
   -ms-transform: scale(1.2);
   transform: scale(1.2); 
  color: #2800b9;
-}
-  
+}  
 
-/*max-width: 2560px */
+                                                                  /*max-width: 2560px */
 @media only screen and (max-width: 2560px){
 body {
   font-size: 50px;
