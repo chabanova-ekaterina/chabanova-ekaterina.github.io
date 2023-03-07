@@ -367,32 +367,39 @@ p{
 body {
   font-size: 50px;
 }
+  
 .logo{
   background-image: url(../images/logo-big.svg);
   width: 154px;
   height: 150px;
 }
+  
 /*main__photo*/
 .main__photo{
   max-width: 1900px;
   height: 600px;
 }
+  
 /* header */
 nav{
   max-width: 1900px;
 }
+  
 .nav-links a{
   padding: 10px 20px;
   margin: 0 10px;
 }
+  
   /* заголовки  */
 .main__text {
   font-size: 60px;
 }
+  
 .main__title { 
   max-width: 2560px;
   font-size: 80px;
 }
+  
 .main__desc {
   font-size: 50px;
   line-height: 1.5;
@@ -403,30 +410,38 @@ nav{
 .swiper__block {
   max-width: 2560px;                      
 }
+  
 .swiper {
   max-width: 2000px;
 }
+  
 .swiper-slide img {
   width: 400px;
 }
+  
 .swiper-pagination .swiper-pagination-bullet, .swiper-pagination .swiper-pagination-bullet-active {
   width: 60px;
   height: 60px;
 }
+  
 .collapsible {
   font-size: 60px;
   margin-bottom: 30px;
 }
+  
 .content{
   font-size: 60px;
   line-height: .8;
 }
+  
 .faq {
   max-width: 1800px;
 }
+  
 .banner{
   max-width: 2560px;
   margin: 70px auto;
+  
 }
 }
 
