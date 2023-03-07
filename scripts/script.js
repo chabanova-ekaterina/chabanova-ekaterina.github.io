@@ -67,3 +67,11 @@ const navSlide = () => {
   };
   
   navSlide();
+
+/*counter*/
+const button = document.querySelector('.button');
+let count;
+
+button.addEventListener('click', () => {
+  count =+ 1;
+});
