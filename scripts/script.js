@@ -6,7 +6,7 @@ centeredSlides: true,
 
 autoplay: {
 delay: 2500,
-disableOnInteraction: false,
+disableOnInteraction: false
 },
 
 loop: true,
@@ -19,7 +19,7 @@ type: 'bullets',
 clickable: true,
 mousewheel: true,
 keyboard: true,
-dynamicBullets: true,
+dynamicBullets: true
 },
 
 navigation: {
