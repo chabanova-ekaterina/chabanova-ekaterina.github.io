@@ -44,7 +44,7 @@ for (i = 0; i < coll.length; i++) {
 }
 
 /* menu*/
-const navSlide = () => {
+    const navSlide = () => {
     const burger = document.querySelector(".burger");
     const nav = document.querySelector(".nav-links");
     const navLinks = document.querySelectorAll(".nav-links a");
