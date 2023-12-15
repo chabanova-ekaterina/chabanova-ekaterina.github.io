@@ -62,7 +62,7 @@ let swiper = new Swiper(".mySwiper", {
           });
           burger.classList.toggle("toggle");
         });
-        //
+
       };
       
       navSlide();
